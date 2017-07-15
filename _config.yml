@@ -80,6 +80,7 @@ deploy:
   type: git
   repo:
     github: git@github.com:unlimitedLoop/unlimitedLoop.github.io.git
+    coding: git@git.coding.net:UnlimitedLoop/UnlimitedLoop.coding.me.git
 
 search:
   path: search.xml
