@@ -329,9 +329,9 @@ changyan:
 ##  type: button
 
 # Share
-jiathis: true
+jiathis: false
 # Warning: JiaThis does not support https.
-#add_this_id:
+add_this_id: ra-596a30db8faaafaf
 
 # Share
 #duoshuo_share: true
@@ -341,7 +341,7 @@ jiathis: true
 #google_site_verification:
 
 # Google Analytics
-#google_analytics: UA-102613070-1
+google_analytics: UA-102613070-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
